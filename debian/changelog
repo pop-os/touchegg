@@ -1,3 +1,9 @@
+touchegg (2.0.9pop0) hirsute; urgency=medium
+
+  * Pop!_OS configuration
+
+ -- Jeremy Soller <jeremy@system76.com>  Mon, 26 Apr 2021 09:55:51 -0600
+
 touchegg (2.0.9) focal; urgency=medium
 
   * Use screen rotation to calculate touchscreen gestures direction
