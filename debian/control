@@ -20,7 +20,7 @@ Vcs-Browser: https://github.com/JoseExposito/touchegg
 Vcs-Git: https://github.com/JoseExposito/touchegg.git
 
 Package: touchegg
-Architecture: any
+Architecture: amd64
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Multi-touch gesture recognizer
  Touchégg is an app that runs in the background and transform the gestures you
