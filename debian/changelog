@@ -1,3 +1,9 @@
+touchegg (2.0.12pop0) impish; urgency=medium
+
+  * Pop!_OS configuration
+
+ -- Jeremy Soller <jeremy@system76.com>  Mon, 01 Nov 2021 13:01:07 -0600
+
 touchegg (2.0.12) focal; urgency=medium
 
   * Improve pinch gesture detection on touchscreens
