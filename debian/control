@@ -22,6 +22,7 @@ Vcs-Git: https://github.com/JoseExposito/touchegg.git
 Package: touchegg
 Architecture: amd64 arm64
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Recommends: xdotool
 Description: Multi-touch gesture recognizer
  Touchégg is an app that runs in the background and transform the gestures you
  make in your touchpad into visible actions in your desktop.
