@@ -1,3 +1,9 @@
+touchegg (2.0.15pop0) jammy; urgency=medium
+
+  * Drop on Rebase: 2.0.15
+
+ -- Brock Szuszczewicz <brock@szu.email>  Wed, 18 Jan 2023 22:38:03 -0700
+
 touchegg (2.0.15) focal; urgency=medium
 
   * Add TOUCHEGG_DEVICE_TYPE environment variable to RUN_COMMAND
